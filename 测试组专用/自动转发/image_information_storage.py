@@ -1542,6 +1542,11 @@ image_information_dict = {
         "name": "刘震宇",
         "telephone": 15581326572
     },
+    "zm_yxlm_kjs_new_fb": {
+        "game_name": "氪金兽掌上英雄联盟QQ版",
+        "name": "刘震宇",
+        "telephone": 15581326572
+    },
     "basic_zm_yxlm_smdl_fb": {
         "game_name": "通用掌上英雄联盟QQ版",
         "name": "刘震宇",
