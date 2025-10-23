@@ -95,6 +95,11 @@ image_information_dict = {
         "name": "王一可",
         "telephone": 18163889728
     },
+    "yuanshen_mhy_kjs_new_fb": {
+        "game_name": "新氪金兽原神mihoyo",
+        "name": "王一可",
+        "telephone": 18163889728
+    },
     "yuanshen_bilibili_xz_fb": {
         "game_name": "戏仔原神bilibili",
         "name": "王一可",
