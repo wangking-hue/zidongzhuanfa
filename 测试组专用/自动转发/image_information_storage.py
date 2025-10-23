@@ -9,6 +9,7 @@ image_information_dict = {
         "name": "王一可",
         "telephone": 18163889728
     },
+
     "blct_smdl_px_fb": {
         "game_name": "部落冲突QQ版",
         "name": "王一可",
@@ -91,6 +92,11 @@ image_information_dict = {
     },
     "yuanshen_mhy_kjs_fb": {
         "game_name": "氪金兽原神mihoyo",
+        "name": "王一可",
+        "telephone": 18163889728
+    },
+    "yuanshen_mhy_kjs_new_fb": {
+        "game_name": "新氪金兽原神mihoyo",
         "name": "王一可",
         "telephone": 18163889728
     },
@@ -1532,6 +1538,11 @@ image_information_dict = {
         "telephone": 15581326572
     },
     "zm_yxlm_kjs_fb": {
+        "game_name": "氪金兽掌上英雄联盟QQ版",
+        "name": "刘震宇",
+        "telephone": 15581326572
+    },
+    "zm_yxlm_kjs_new_fb": {
         "game_name": "氪金兽掌上英雄联盟QQ版",
         "name": "刘震宇",
         "telephone": 15581326572
