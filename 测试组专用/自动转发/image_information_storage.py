@@ -9,6 +9,7 @@ image_information_dict = {
         "name": "王一可",
         "telephone": 18163889728
     },
+
     "blct_smdl_px_fb": {
         "game_name": "部落冲突QQ版",
         "name": "王一可",
