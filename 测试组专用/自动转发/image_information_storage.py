@@ -29,6 +29,11 @@ image_information_dict = {
         "name": "王一可",
         "telephone": 18163889728
     },
+    "aaaayysls_wangyi_kjs_fb": {
+        "game_name": "氪金兽燕云十六声网易版",
+        "name": "王一可",
+        "telephone": 18163889728
+    },
     "yysls_wangyi_pz_fb": {
         "game_name": "盼之燕云十六声网易版",
         "name": "王一可",
